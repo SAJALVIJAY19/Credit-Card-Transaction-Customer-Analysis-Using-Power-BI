@@ -36,6 +36,8 @@ credit-card-analysis/
 
 ## 📊 Dashboard 1 — Credit Card Customer Report
 
+<img width="859" height="496" alt="Screenshot 2026-03-17 151200" src="https://github.com/user-attachments/assets/2ee7c8c7-eee6-4da4-ae44-09d023b03bac" />
+
 > Analyzes **who** the customers are and **how** they behave.
 
 ### 🔢 Key KPIs
@@ -66,6 +68,8 @@ credit-card-analysis/
 ---
 
 ## 💰 Dashboard 2 — Credit Card Transaction Report
+
+<img width="883" height="516" alt="Screenshot 2026-03-17 151214" src="https://github.com/user-attachments/assets/72147cfa-c5cc-442f-81a7-99a9cac8384e" />
 
 > Analyzes **what** customers are spending on and **how much** revenue is generated per segment.
 
